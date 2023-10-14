@@ -31,4 +31,7 @@ Invoke-Stompy -Path "C:\path\to\file.txt" -NewTimestamp "01/01/2023 12:00:00 AM"
 ```
 
 ## Demo:
-![image](https://github.com/ZephrFish/Stompy/assets/5783068/81b42583-59cc-4084-acd8-8b41972195a0)
+![image](https://github.com/ZephrFish/Stompy/assets/5783068/0ba615ca-ba50-4435-be5c-2e9b0983bc2b)
+
+
+![image](https://github.com/ZephrFish/Stompy/assets/5783068/e8f9ae8e-bcdd-4a1d-8d68-7f787021164e)
