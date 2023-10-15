@@ -1,5 +1,5 @@
 # StompySharps
-StompySharps is a utility tool written in C# (.NET Framework) designed to "stomp" (alter) the timestamps of specified files and directories. You can choose to recursively apply the timestamp to files within a directory and even leverage specific credentials to access files and directories.
+StompySharps is the C# (.NET Framework) flavour of Stompy, designed to alter Modify Access Creation (MAC) timestamps of specified files and directories. You can recursively apply the timestamp to files within a directory and even leverage specific credentials to access files and directories.
 
 ## Usage
 ```
