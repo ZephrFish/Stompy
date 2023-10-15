@@ -1,5 +1,5 @@
 # Stompy
-A PowerShell function to perform timestomping on specified files and directories. The function can modify timestamps recursively for all files in a directory.
+A PowerShell function to perform timestomping on specified files and directories. The function can modify timestamps recursively for all files in a directory. There's also a C# version [linked in the same repo here](https://github.com/ZephrFish/Stompy/tree/main/StompySharps).
 
 - Change timestamps for individual files or directories.
 - Recursively apply timestamps to all files in a directory.
