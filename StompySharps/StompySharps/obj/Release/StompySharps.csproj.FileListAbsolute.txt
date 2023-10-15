@@ -1,0 +1,7 @@
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\bin\Release\StompySharps.exe.config
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\bin\Release\StompySharps.exe
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\bin\Release\StompySharps.pdb
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\obj\Release\StompySharps.csproj.AssemblyReference.cache
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\obj\Release\StompySharps.csproj.CoreCompileInputs.cache
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\obj\Release\StompySharps.exe
+C:\Users\Zephr\source\repos\StompySharps\StompySharps\obj\Release\StompySharps.pdb
